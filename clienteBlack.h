@@ -1,0 +1,16 @@
+//
+// Created by delfi on 23/5/2023.
+//
+
+#ifndef PROYECTO_PROGRAMACION_CLIENTEBLACK_H
+#define PROYECTO_PROGRAMACION_CLIENTEBLACK_H
+
+
+
+class clienteBlack {
+
+};
+
+
+
+#endif //PROYECTO_PROGRAMACION_CLIENTEBLACK_H

@@ -1,0 +1,3 @@
+C:/Users/delfi/SEGUNDO ANO SISTEMAS/Proyecto-SALINAS-OJEDA-BUGLIOTTI/cmake-build-debug/CMakeFiles/Proyecto_SALINAS_OJEDA_BUGLIOTTI.dir
+C:/Users/delfi/SEGUNDO ANO SISTEMAS/Proyecto-SALINAS-OJEDA-BUGLIOTTI/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/delfi/SEGUNDO ANO SISTEMAS/Proyecto-SALINAS-OJEDA-BUGLIOTTI/cmake-build-debug/CMakeFiles/rebuild_cache.dir

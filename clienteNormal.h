@@ -1,0 +1,16 @@
+//
+// Created by delfi on 23/5/2023.
+//
+
+#ifndef PROYECTO_PROGRAMACION_CLIENTENORMAL_H
+#define PROYECTO_PROGRAMACION_CLIENTENORMAL_H
+
+
+
+class clienteNormal {
+
+};
+
+
+
+#endif //PROYECTO_PROGRAMACION_CLIENTENORMAL_H
